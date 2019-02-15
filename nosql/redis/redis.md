@@ -38,6 +38,7 @@
 
 `bgsave`的原理是什么:`fork`&`cow`,`fork`是指`redis`通过创建子进程来进行`bgsave`操作,`cow`指的是`copy on write`
 
+`copy on write`:
 
 
 `aof`重写:`redis`提供`bgwriteaof`指令用于`aof`日志进行瘦身,其原理是开辟一个子进程对内存进行遍历转换成`redis`的操作指令,序列化完毕后再将操作期间产生的增量`aof`日志,追加到新的`aof`日志文件中
