@@ -146,6 +146,11 @@ sql线程会从中继日志读取`binlog`,然后执行`binlog`的内容
 
 
 
+
+
+##### 为什么是最左匹配原则
+
+
 [mysql 文章](http://www.cnblogs.com/annsshadow/p/5037667.html)
 
 
