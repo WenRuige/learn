@@ -79,4 +79,10 @@ A:TRIP-NODE 是一个数据服务,负责指导骑手在当前节点做什么事�
 [文章](https://juejin.im/post/5c63f52a6fb9a049d519ffa1)
 
 
-    
+
+https://www.nowcoder.com/discuss/129660?type=0&order=0&pos=20&page=1
+https://www.nowcoder.com/discuss/145338?type=2
+https://leetcode-cn.com/explore/interview/card/top-interview-quesitons-in-2018/263/simulation/1197/
+
+
+
