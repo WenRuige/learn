@@ -85,3 +85,5 @@ https://www.nowcoder.com/discuss/145338?type=2
 https://leetcode-cn.com/explore/interview/card/top-interview-quesitons-in-2018/263/simulation/1197/
 
 https://halfrost.com/http/
+https://zhuanlan.zhihu.com/p/32540678
+https://halfrost.com/tcp_ip/
