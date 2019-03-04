@@ -32,3 +32,15 @@
     sh.Len  = size
     sh.Cap  = size
 ```
+
+
+
+```go
+type slice  struct{
+	array unsafe.Pointer  //指向数组的指针
+	len int               //当前切片的长度
+	cap int               //当前切片的容量
+}
+```
+
+[golang slice](https://halfrost.com/go_slice/)
