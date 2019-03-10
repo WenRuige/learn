@@ -43,4 +43,9 @@ type slice  struct{
 }
 ```
 
+
+`golang slice`的`append`操作是基于内存拷贝,而不是链表的方式
+
+
+
 [golang slice](https://halfrost.com/go_slice/)
