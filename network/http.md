@@ -13,7 +13,12 @@
 
 
 
-TIME_WAIT累积和端口耗尽
+TIME_WAIT累积和端口耗尽,
+
+> 什么场景会出现`TIME_WAIT`
+
+比如说服务器`shut`后重新启动,此时会报端口被占用,解决方案是使用linux 端口reuse参数置为true
+
 
 
 
