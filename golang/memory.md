@@ -59,3 +59,9 @@
 #### `Tcmalloc`
 
 `Thread Cache Malloc`将内存分解为多层,从而减小内存的粒度`Tcmalloc`将内存管理分为线程内存以及页堆两部分。
+
+
+
+
+
+[golang 内存分配](https://weibo.com/ttarticle/p/show?id=2309404347690665261491)
