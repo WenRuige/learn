@@ -350,3 +350,6 @@ func (m *Map) Range(f func(key, value interface{}) bool) {
 
 [map原理](https://www.jianshu.com/p/aa0d4808cbb8)
 
+// must be read
+[golang map](https://studygolang.com/articles/13226)
+
