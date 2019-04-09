@@ -2,11 +2,6 @@ package main
 
 import "fmt"
 
-
-
-
-
-
 /*
 
 // {2,3,1,0,2,5,3}
@@ -45,7 +40,19 @@ func duplicate(nums []int) int {
 	return 0
 }
 
+
+
+/*
+	不修改数组找出重复的数字
+	{2,3,5,4,3,2,6,7}
+
+
+*/
+
 func main() {
 	result := duplicate([]int{2, 3, 1, 0, 2, 5, 3})
 	fmt.Println(result)
 }
+
+
+
