@@ -26,6 +26,9 @@ func main() {
 
 	map2.Store("a", "b")
 	res, _ := map2.Load("a")
+
+
+
 	fmt.Println(res)
 
 }
